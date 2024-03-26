@@ -11,9 +11,7 @@ function ProductDetails() {
 
   return (
     <div>
-      <h1>
-        Product Details of product {""}"{productId}"
-      </h1>
+      <h1>Product Details of product` {productId}`</h1>
     </div>
   );
 }
