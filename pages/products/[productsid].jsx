@@ -1,3 +1,5 @@
+// this page is dedicated to the dynmaic routing
+
 import { useRouter } from "next/router";
 
 function ProductDetails() {
