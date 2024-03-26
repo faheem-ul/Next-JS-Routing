@@ -1,3 +1,5 @@
+// this page is dedicated to the custom error route
+
 function ErrorPage() {
   return (
     <div>
