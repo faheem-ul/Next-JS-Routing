@@ -1,3 +1,5 @@
+// this is the main root route of the application.
+
 import Link from "next/link";
 import { useRouter } from "next/router";
 
