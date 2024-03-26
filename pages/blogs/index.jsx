@@ -1,3 +1,5 @@
+// this page is dedicated to the nested routing.
+
 function Blogs() {
   return (
     <div>
