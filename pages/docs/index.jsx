@@ -1,4 +1,4 @@
-import React from "react";
+// this folder is dedicated to  catch-all routing
 
 function Doc() {
   return (
